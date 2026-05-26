@@ -9,7 +9,8 @@ O objetivo do repositório é registrar o progresso prático nos estudos de algo
 
 ## Link do Repositório Principal
 * [Acessar Repositório no GitHub](https://github.com/marisout0/Aprendizagem-de-m-quina.git)
-## link do trabalho final da matéria: https://github.com/marisout0/Aprendizagem-de-m-quina/blob/main/Trabalho_final_aprendizagem_de_m%C3%A1quina_e_vida.ipynb
+## link do trabalho final da matéria: 
+https://github.com/marisout0/Aprendizagem-de-m-quina/blob/main/Trabalho_final_aprendizagem_de_m%C3%A1quina_e_vida.ipynb
 ## link dos datasets utilizados no trabalho final:
 https://www.kaggle.com/datasets/muhammadroshaanriaz/time-wasters-on-social-media
 https://www.kaggle.com/datasets/lamimir/panorama-do-sono-no-brasil-lamimir-2025
